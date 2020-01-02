@@ -1,3 +1,11 @@
+### Prepare data
+
+``` bash
+# uber ride data 2015 jan - june 
+wget https://raw.githubusercontent.com/fivethirtyeight/uber-tlc-foil-response/master/uber-trip-data/uber-raw-data-janjune-15.csv.zip
+```
+
+
 ### Prepare table 
 
 ``` sql
